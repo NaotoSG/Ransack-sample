@@ -1,0 +1,6 @@
+User.create!(name: "なおとSG", age: 32)
+User.create!(name: "たろう", age: 32)
+User.create!(name: "えみ", age: 30)
+User.create!(name: "みか", age: 28)
+User.create!(name: "Halfy", age: 35)
+User.create!(name: "Ranke", age: 37)
